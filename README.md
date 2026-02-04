@@ -1,5 +1,5 @@
 <!-- Welcome Header -->
-<h1 align="center">Hey there, I'm Issac 👋</h1>
+<h1 align="center">Hey there, I'm Issac Manova👋</h1>
 
 <!-- Optional: Add a cool animated header / GIF -->
 <p align="center">
