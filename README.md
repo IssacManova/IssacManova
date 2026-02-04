@@ -3,9 +3,9 @@
 
 <!-- Optional: Add a cool animated header / GIF -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&text=Issac%20Manova&fontAlign=50&fontSize=40&height=150&color=gradient"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
 </p>
 
 <!-- Short Bio -->
