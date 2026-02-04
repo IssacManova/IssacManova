@@ -3,7 +3,7 @@
 
 <!-- Optional: Add a cool animated header / GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner;AI Explorer" />
 </p>
 
 <!-- Short Bio -->
