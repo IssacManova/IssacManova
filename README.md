@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Issac 👋</h1>
 
 <!-- Optional: Add a cool animated header / GIF -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner)
+<center>![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner)</center>
 
 
 <!-- Short Bio -->
