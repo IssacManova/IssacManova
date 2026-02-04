@@ -3,7 +3,9 @@
 
 <!-- Optional: Add a cool animated header / GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!%20I'm%20Issac&animation=fadeIn&color=gradient" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&text=Issac%20Manova&fontAlign=50&fontSize=40&height=150&color=gradient"
+  />
 </p>
 
 <!-- Short Bio -->
