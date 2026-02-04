@@ -2,9 +2,8 @@
 <h1 align="center">Hey there, I'm Issac 👋</h1>
 
 <!-- Optional: Add a cool animated header / GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssacManova&show_icons=true&theme=tokyonight)
+
 
 <!-- Short Bio -->
 ### 👨‍💻 About Me
