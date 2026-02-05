@@ -7,7 +7,7 @@
     src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&pause=1000&size=26&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner;AI+Explorer" 
   />
 </p>
----
+
 
 ### 👨‍💻 About Me
 
