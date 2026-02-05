@@ -9,6 +9,7 @@
 </p>
 <!-- Short Bio -->
 ### 👨‍💻 About Me
+
 I’m **Issac Manova** — a Computer Science student passionate about **Quantum Computing**, **AI**, and **Full Stack Development**.  
 Currently exploring new technologies and building cool stuff with **Python**, **React**, and **Qiskit**.
 
