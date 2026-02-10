@@ -29,7 +29,7 @@ Currently exploring new technologies and building cool stuff with **Python**, **
 ---
 
 ### 💻 Languages & Tools
-<!-- You can add badges/icons or lists here -->
+
 - Python 🐍
 - React ⚛️
 - Qiskit
