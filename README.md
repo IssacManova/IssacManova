@@ -1,7 +1,5 @@
 <!-- Welcome Header -->
 <h1 align="center">Hey there, I'm Issac Manova M👋</h1>
-
-<!-- Optional: Add a cool animated header / GIF -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&pause=1000&size=26&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner;AI+Explorer" 
