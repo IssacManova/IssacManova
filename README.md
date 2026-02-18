@@ -6,6 +6,7 @@
   />
 </p>
 
+
 ### 👨‍💻 About Me
 
 I’m **Issac Manova** — a Computer Science student passionate about **Quantum Computing**, **AI**, and **Full Stack Development**.  
