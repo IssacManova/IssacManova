@@ -1,69 +1,88 @@
-<!-- Welcome Header -->
-<h1 align="center">Hey there, I'm Issac Manova M👋</h1>
+<!-- HEADER -->
+<h1 align="center">Issac Manova M</h1>
+<h3 align="center">Building Foundations in Quantum Computing, AI & Scalable Systems</h3>
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&pause=1000&size=26&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner;AI+Explorer" 
-  />
+  <a href="https://www.linkedin.com/in/issac-manova-m">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:issacmanovamanoharan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
+---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m **Issac Manova** — a Computer Science student passionate about **Quantum Computing**, **AI**, and **Full Stack Development**.  
-Currently exploring new technologies and building cool stuff with **Python**, **React**, and **Qiskit**.
+I'm a Computer Science student focused on building strong foundations in:
 
-📍 Based in **Coimbatore, India**
+- ⚛️ Quantum Computing & Algorithm Simulation  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Backend & Full Stack Development  
+- 🧠 Data Structures & Problem Solving  
 
-🔭 I’m currently working on:
-- Learning advanced topics in quantum software development
-- Building real-world web applications with React & Node
-- Contributing to open-source projects
-
-💬 Ask me about anything related to **AI, React, Python, or Quantum Dev**
-
-📫 **How to reach me:** issacmanovamanoharan@gmail.com  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/issac-manova-m)
+I believe in writing **efficient, scalable, and optimized code** while continuously improving algorithmic thinking.
 
 ---
 
-### 💻 Languages & Tools
+## 🚀 Currently Working On
 
-- Python 🐍
-- React ⚛️
-- Qiskit
-- Git & GitHub
-- HTML & CSS
-- Node.js & Express
+- Advanced Data Structures & Algorithms
+- Quantum circuit simulations using Qiskit
+- Backend architecture with Node & Express
+- Building real-world React applications
 
 ---
 
-### 📊 GitHub Stats
-<!-- Optional: Add GitHub stats cards -->
-[![Issac’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssacManova&show_icons=true&theme=radical)](https://github.com/IssacManova)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IssacManova&layout=compact)](https://github.com/IssacManova)
+## 🛠 Tech Stack
+
+### Languages
+`Python` `Java` `C++` `JavaScript`
+
+### Backend & Web
+`Node.js` `Express.js` `React` `HTML` `CSS`
+
+### Tools & Platforms
+`Git` `GitHub` `Qiskit` `Postman` `VS Code`
 
 ---
 
-### 🏆 Achievements & Highlights
-- 📌 Built various React projects & REST APIs
-- ⭐ Worked on quantum computing scripts using Qiskit
-- 🤝 Open-source contributor
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IssacManova&show_icons=true&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacManova&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-### 📌 Pinned Projects
-Check out some of my featured work:
+## 📌 Featured Projects
 
 | Project | Description |
-| ------- | ----------- |
-| **demo** | Demo repo |
-| **Codsoft** | Python & Django project |
-| **React-Projects** | Collection of React apps |
-| **restapi_115** | REST API examples |
-| **restapi_1115** | Another REST API demo |
+|----------|-------------|
+| Quantum Phase Estimation | Implemented QPE algorithm using Qiskit with circuit simulation |
+| REST API Backend | Built scalable REST APIs using Node & Express |
+| AI-Based Emotion Detection | Machine learning model for emotion classification |
+| React Web Applications | Collection of interactive frontend applications |
 
 ---
 
-### 💬 Fun Facts
-- I love learning new languages & frameworks
-- I enjoy solving coding challenges daily
+## 🎯 Career Direction
+
+Aspiring **Quantum Software Engineer** with strong interest in:
+- Quantum Algorithms  
+- High-performance Computing  
+- AI-driven systems  
+- Product-based engineering roles  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/issac-manova-m  
+- 📧 Email: issacmanovamanoharan@gmail.com  
+
+---
+
+> “Consistency builds mastery.”
