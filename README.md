@@ -1,5 +1,12 @@
 <!-- HEADER -->
 <h1 align="center">Issac Manova M</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&pause=1000&size=26&lines=Quantum+Computing+Enthusiast;Python+Developer;Full+Stack+Learner;AI+Explorer" 
+  />
+</p>
+
 <h3 align="center">Building Foundations in Quantum Computing, AI & Scalable Systems</h3>
 
 <p align="center">
