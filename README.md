@@ -89,8 +89,8 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 <img src="https://streak-stats.demolab.com?user=IssacManova&theme=github-dark&v=2" />
   <br/>
 </p>
-
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
