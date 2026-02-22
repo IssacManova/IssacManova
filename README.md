@@ -86,7 +86,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IssacManova&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=IssacManova&theme=github-dark&cache_seconds=1800" />
   <br/>
 </p>
 
