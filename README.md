@@ -97,6 +97,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IssacManova&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IssacManova&theme=github-dark&cache_seconds=300" />
 </p>
 
 ---
