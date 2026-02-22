@@ -81,6 +81,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 </p>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -89,6 +90,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 <img src="https://streak-stats.demolab.com?user=IssacManova&theme=github-dark&v=2" />
   <br/>
 </p>
+
 ---
 
 ## 📈 Contribution Graph
@@ -96,6 +98,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IssacManova&theme=github-dark" />
 </p>
+
 ---
 
 ## 📌 Featured Projects
