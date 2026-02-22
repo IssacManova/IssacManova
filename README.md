@@ -57,10 +57,8 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IssacManova&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=IssacManova&theme=github-dark" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacManova&layout=compact&theme=github_dark" />
 </p>
