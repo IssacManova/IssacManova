@@ -74,6 +74,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge&logo=thunderbird&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
