@@ -75,7 +75,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge&logo=thunderbird&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Anti-Gravity Project](https://img.shields.io/badge/Project-Anti--Gravity-0B0F2F?style=for-the-badge&logo=atom&logoColor=8B5CF6)
+![Anti-Gravity Physics](https://img.shields.io/badge/Physics-Anti--Gravity-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
