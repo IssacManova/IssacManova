@@ -133,17 +133,33 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Issac%20Manova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issac-manova-m)
+<p align="left">
 
-[![Email](https://img.shields.io/badge/Email-issacmanovamanoharan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacmanovamanoharan@gmail.com)
+<a href="https://www.linkedin.com/in/issac-manova-m">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<a href="mailto:issacmanovamanoharan@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+<a href="https://leetcode.com/yourusername">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+</a>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+<a href="https://www.hackerrank.com/yourusername">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
+</a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+<a href="https://www.codechef.com/users/yourusername">
+<img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/yourusername">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
+</a>
+
+</p>
 
 ---
 
