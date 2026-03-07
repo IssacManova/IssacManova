@@ -133,8 +133,17 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/issac-manova-m  
-- 📧 Email: issacmanovamanoharan@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Issac%20Manova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issac-manova-m)
+
+[![Email](https://img.shields.io/badge/Email-issacmanovamanoharan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacmanovamanoharan@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 ---
 
