@@ -136,11 +136,11 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/issac-manova-m">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
 <a href="mailto:issacmanovamanoharan@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
 </a>
 
 <a href="https://leetcode.com/yourusername">
