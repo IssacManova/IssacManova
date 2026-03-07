@@ -154,7 +154,6 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 <a href="https://www.codechef.com/users/yourusername">
 <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"/>
 </a>
-
 <a href="https://auth.geeksforgeeks.org/user/yourusername">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
 </a>
