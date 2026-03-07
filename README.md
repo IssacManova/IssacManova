@@ -147,7 +147,7 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/yourusername">
+<a href="https://www.hackerrank.com/profile/issacmanovamano1">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
 </a>
 
