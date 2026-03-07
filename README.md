@@ -148,7 +148,7 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 </a>
 
 <a href="https://www.hackerrank.com/profile/issacmanovamano1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="40"/>
 </a>
 
 <a href="https://www.codechef.com/users/yourusername">
