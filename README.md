@@ -111,11 +111,13 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ## 📌 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| Quantum Phase Estimation | Implemented QPE algorithm using Qiskit with circuit simulation |
-| REST API Backend | Built scalable REST APIs using Node & Express |
-| AI-Based Emotion Detection | Machine learning model for emotion classification |
-| React Web Applications | Collection of interactive frontend applications |
+|--------|-------------|
+| Quantum Random Number Generator | Web-based QRNG using Qiskit and Hadamard gate to generate true quantum randomness |
+| AI-Based Multimodal Interview Confidence Analyzer | AI system that analyzes facial expressions, speech, and text to evaluate interview confidence |
+| Quantum Phase Estimation | Implemented the QPE algorithm using Qiskit with quantum circuit simulation |
+| Healthcare Chatbot | Python-based chatbot for basic healthcare assistance using rule-based logic |
+| REST API Backend | Built scalable REST APIs using Node.js / FastAPI for backend services |
+| React Web Applications | Collection of responsive frontend applications built with React |
 
 ---
 
