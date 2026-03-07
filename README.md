@@ -79,7 +79,7 @@ I believe in writing **efficient, scalable, and optimized code** while continuou
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge&logo=thunderbird&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Cursor](https://img.shields.io/badge/Cursor%20Editor-000000?style=for-the-badge&logo=cursor&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor%20-000000?style=for-the-badge&logo=cursor&logoColor=white) 
 ![Anti-Gravity](https://img.shields.io/badge/Anti--Gravity-6C47FF?style=for-the-badge&logo=rocket&logoColor=white)
 
 ---
