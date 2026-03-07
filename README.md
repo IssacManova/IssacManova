@@ -143,7 +143,7 @@ Aspiring **Quantum Software Engineer** with strong interest in:
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
 </a>
 
-<a href="https://leetcode.com/yourusername">
+<a href="https://leetcode.com/u/issacmanovamanoharan/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 
